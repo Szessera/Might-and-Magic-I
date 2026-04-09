@@ -4,3 +4,4 @@ Might and Magic Book One: Secret of the Inner Sanctum (also known as simply Migh
 
 - [Predefined Characters](https://github.com/Szessera/Might-and-Magic-I/blob/a58f9a3fad29da544d5f4a54504e82863d05299c/Predefined_characters.md)
 - [Enemies List](https://github.com/Szessera/Might-and-Magic-I/blob/d8f88e586413986125943b1fd0638c02c1ddcd3d/Enemies-List.md)
+- [Spells List](https://github.com/Szessera/Might-and-Magic-I/blob/487fd5c24381e00a62de6edc8a3b3089527d46d6/Spells-List.md)
